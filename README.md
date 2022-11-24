@@ -1,0 +1,1 @@
+# -8-Program-to-Print-Square-Cube-and-Square-Root-of-all-numbers-from-1-to-N
